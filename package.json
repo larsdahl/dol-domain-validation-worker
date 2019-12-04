@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "name": "dol-apps-worker",
+  "version": "1.0.0",
+  "description": "A template for handling app-links for iOS",
+  "main": "index.js",
+  "author": "larsdahl",
+  "license": "MIT"
+}

@@ -1,0 +1,6 @@
+name = "dol-apps-worker"
+type = "javascript"
+account_id = ""
+workers_dev = false
+route = "2be.dk/apple-app-site-association"
+zone_id = ""

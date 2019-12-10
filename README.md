@@ -1,4 +1,4 @@
-# dol-apps-worker
+# dol-domain-validation-worker
 
 A worker for handling app links on iOS apps
 

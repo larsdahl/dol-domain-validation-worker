@@ -1,6 +1,5 @@
 name = "dol-domain-validation-worker"
 type = "javascript"
 account_id = ""
-workers_dev = false
 route = "dol-sensors.com/apple-app-site-association"
 zone_id = ""
